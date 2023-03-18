@@ -4,3 +4,6 @@
 [submodule "react-todolist"]
 	path = react-todolist
 	url = https://github.com/dwomeco2/react-todolist
+[submodule "accordion-component"]
+	path = accordion-component
+	url = https://github.com/dwomeco2/accordion-component

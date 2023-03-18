@@ -1,0 +1,6 @@
+[submodule "share-content-card"]
+	path = share-content-card
+	url = https://github.com/dwomeco2/share-content-card
+[submodule "react-todolist"]
+	path = react-todolist
+	url = https://github.com/dwomeco2/react-todolist
